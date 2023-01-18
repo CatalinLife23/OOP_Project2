@@ -1,4 +1,8 @@
 public class SmartphoneAndroid extends Smartphone{
+    public SmartphoneAndroid(String marca, String pret) {
+        super(marca, pret);
+    }
+
     public void sePornesteAndroid(){
         System.out.println("Telefonul Android porneste");
     }

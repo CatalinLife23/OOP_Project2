@@ -89,16 +89,18 @@ public class Main {
 //        elev1.diriginte = "Diriginte1";
 //        elev2.diriginte = "Diriginte2";
 //        elev3.diriginte = "Diriginte3";
-//          Inotator inotator1 = new Inotator();
+         Inotator inotator1 = new Inotator("100m bazin", "Romania");
+         inotator1.ceTaraReprezinta();
 //          Maratonist maratonist1 = new Maratonist();
 //          inotator1.seAntreneaza();
 //          maratonist1.seAntreneaza();
-        SmartphoneIOS iPhone = new SmartphoneIOS();
-        SmartphoneAndroid xiaoMi = new SmartphoneAndroid();
-        iPhone.porneste();
-        iPhone.seOperste();
-        xiaoMi.porneste();
-        xiaoMi.seOperste();
+//        SmartphoneIOS iPhone = new SmartphoneIOS();
+//        SmartphoneAndroid xiaoMi = new SmartphoneAndroid();
+//        iPhone.porneste();
+//        iPhone.seOperste();
+//        xiaoMi.porneste();
+//        xiaoMi.seOperste();
+
 
 
 
